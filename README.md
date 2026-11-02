@@ -69,18 +69,18 @@ This repository contains everything required to become an Industry Ready Machine
 |---|---|---|---|---|---|
 | 📈 Regression | **House Price Prediction AI** | Regression • Feature Engineering | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/House-price-prediction-App) | [Demo](https://house-price-prediction-app-hix54k2x6btekcoq7mdvep.streamlit.app/) |
 | 📈 Regression | **Electricity Consumption Prediction** | Regression • Time Series | 🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/Household-Electricity-Load-Forecaster) | - |
-| 📈 Regression | **AI Startup Valuation Prediction** | Regression • Business Analytics |🟢 Completed | [GitHub](https://github.com/vinaysingh-05/AI-Startup-Valuation-Prediction.git) | [Demo](https://ai-startup-valuation-prediction-nappzj9hdfumdfzn73ou8w.streamlit.app/) |
-| 📈 Regression | **EV Battery Life RUL Prediction** | Regression • Predictive Modeling |🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/EV-Battery-Remaining-Useful-life-RUL-Prediction) |-|
-| 📈 Regression | **AI Interview Salary Negotiation Prediction** | Regression • Prediction |🟢 Completed| [GitHub](https://github.com/vinaysingh-05/AI-Interview-Salary-Negotiation-Prediction) | [Demo](https://ai-interview-salary-negotiation-prediction-bkl6fg2mjezzh2qvcfy.streamlit.app/) |
+| 📈 Regression | **AI Startup Valuation Prediction** | Regression • Business Analytics | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/AI-Startup-Valuation-Prediction.git) | [Demo](https://ai-startup-valuation-prediction-nappzj9hdfumdfzn73ou8w.streamlit.app/) |
+| 📈 Regression | **EV Battery Life RUL Prediction** | Regression • Predictive Modeling | 🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/EV-Battery-Remaining-Useful-life-RUL-Prediction) | - |
+| 📈 Regression | **AI Interview Salary Negotiation Prediction** | Regression • Prediction | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/AI-Interview-Salary-Negotiation-Prediction) | [Demo](https://ai-interview-salary-negotiation-prediction-bkl6fg2mjezzh2qvcfy.streamlit.app/) |
 | 📈 Regression | **Car Price Predictor** | Regression • Scikit-learn • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/car_price_prediction) | [Demo](https://carpriceprediction-k59ot8irhdohvjoe5vcqdk.streamlit.app/) |
-| 📈 Regression | **Laptop Price Predictor** | Regression • ML | 🟢 Completed  | [GitHub](https://github.com/vinaysingh-05/Laptop-Price-Predictor/tree/main) | [Demo](https://laptop-price-predictor-dst6tjac22suzmvtyk94ka.streamlit.app/) |
+| 📈 Regression | **Laptop Price Predictor** | Regression • ML | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/Laptop-Price-Predictor/tree/main) | [Demo](https://laptop-price-predictor-dst6tjac22suzmvtyk94ka.streamlit.app/) |
 | 📈 Regression | **Airbnb Price Prediction** | Regression • Scikit-learn • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/ai_powered_airbnb_price_prediction) | [Demo](https://air-bnb-price-prediction099223.streamlit.app/#contact) |
 | 📈 Regression | **Logistic Regression Visualizer** | Logistic Regression • Hyperparameters • Visualization | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/logistic-regression-visualizer) | [Demo](https://logistic-regression-visualizer-nwynnwur9rgu2detcgjq3p.streamlit.app/) |
-| 🏷️ Classification | **AI Loan Approval Prediction** | Classification • Risk Prediction |🟢 Completed| [GitHub](https://github.com/vinaysingh-05/AI-Loan-Approval-Prediction-LoanLens) | [Demo](https://ai-loan-approval-prediction-loanlens-9wvyhgazcqkywws5iu2sah.streamlit.app/) |
-| 🏷️ Classification | **AI Fake Research Paper Detector** | Classification • NLP | 🟡 Planned | [GitHub](#) | [Demo](#) |
+| 🏷️ Classification | **AI Loan Approval Prediction** | Classification • Risk Prediction | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/AI-Loan-Approval-Prediction-LoanLens) | [Demo](https://ai-loan-approval-prediction-loanlens-9wvyhgazcqkywws5iu2sah.streamlit.app/) |
+| 🏷️ Classification | **Deep Sentinel — AI Research Paper & Text Detector** | Classification • NLP • Scikit-Learn • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/Deep-Sentinel-AI-Paper-Detector) | [Demo](https://deep-sentinel-ai-paper-detector-ptvlbvvzqneebvnvatekbk.streamlit.app/) |
 | 🏷️ Classification | **AI Resume Shortlisting Predictor** | Classification • NLP | 🟡 Planned | [GitHub](#) | [Demo](#) |
-| 🏷️ Classification | **Email / SMS Spam Classifier** | Classification |🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/Email-sms-classifier) |-|
-| 🏷️ Classification | **IPL Win Probability Predictor** | Classification • Prediction |🟢 Completed | [GitHub](https://github.com/vinaysingh-05/ipl-win-probability-predictor) | [Demo](https://ipl-win-probability-predictor-3baagkdne8cxzykel2qbyj.streamlit.app/) |
+| 🏷️ Classification | **Email / SMS Spam Classifier** | Classification | 🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/Email-sms-classifier) | - |
+| 🏷️ Classification | **IPL Win Probability Predictor** | Classification • Prediction | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/ipl-win-probability-predictor) | [Demo](https://ipl-win-probability-predictor-3baagkdne8cxzykel2qbyj.streamlit.app/) |
 | 🏷️ Classification | **AI Workplace Productivity Analysis** | Classification • ML • Streamlit | 🟢 Completed | [GitHub](https://github.com/vinaysingh-05/ai-workplace-productivity-analysis) | [Demo](https://ai-workplace-appuctivity-analysis-93hbuvhxz5xdah2zhznzvi.streamlit.app/) |
 | 🏷️ Classification | **Digit Recognizer** | Classification • Scikit-learn • PCA | 🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/Digit-Recognizer-withPCA-withoutPCA) | - |
 | 🏷️ Classification | **Diabetes Risk Predictor Neural-Lite** | Classification • Streamlit • TFLite | 🗃️ Archived | [GitHub](https://github.com/vinaysingh-05/Diabetes-Risk-Predictor-Neural-Lite) | - |
@@ -94,19 +94,6 @@ This repository contains everything required to become an Industry Ready Machine
 | 📊 Data Analysis | **WhatsApp Chat Analysis** | Data Analysis • Visualization | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 📊 Data Analysis | **Olympics Data Analysis** | Data Analysis • ML | 🟡 Planned | [GitHub](#) | [Demo](#) |
 | 📊 Data Analysis | **COVID-19 Dashboard** | Data Analysis • Dashboard | 🟡 Planned | [GitHub](#) | [Demo](#) |
-
-## 📊 Project Summary
-
-| Category | Number of Projects |
-|---|---:|
-| 📈 Regression | 10 |
-| 🏷️ Classification | 12 |
-| 🧩 Clustering | 3 |
-| 🧩 Recommendation | 3 |
-| 🤖 AI / Agents | 1 |
-| 📊 Data Analysis | 3 |
-| **🚀 Total Projects** | **32** |
-
 ---
 
 ### 🎯 Project Progress
